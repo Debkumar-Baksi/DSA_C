@@ -1,3 +1,4 @@
+// Linear Search
 #include<stdio.h>
 void main(){
     int DATA[10] = {22,65,1,99,32,17,74,49,33,2};
